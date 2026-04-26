@@ -1,0 +1,77 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 1,
+      "title": "Modern CV",
+      "description": "A modern and clean CV template",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/free/free1.png",
+      "isPremium": false,
+      "category": "modern"
+    },
+    {
+      "id": 2,
+      "title": "Professional CV",
+      "description": "A professional CV template for job seekers",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/free/free2.png",
+      "isPremium": false,
+      "category": "professional"
+    },
+    {
+      "id": 3,
+      "title": "Simple CV",
+      "description": "A simple and minimal CV template",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/free/free3.png",
+      "isPremium": false,
+      "category": "simple"
+    },
+    {
+      "id": 4,
+      "title": "Creative CV",
+      "description": "A creative and colorful CV template",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/free/free4.png",
+      "isPremium": false,
+      "category": "creative"
+    },
+    {
+      "id": 5,
+      "title": "Simple Application",
+      "description": "A simple application template",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/free/simpleone.png",
+      "isPremium": false,
+      "category": "application"
+    },
+    {
+      "id": 6,
+      "title": "Corporate",
+      "description": "A corporate style CV template",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/free/free6.png",
+      "isPremium": false,
+      "category": "corporate"
+    },
+    {
+      "id": 7,
+      "title": "Simple BW",
+      "description": "A simple black and white template",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/free/free7.png",
+      "isPremium": false,
+      "category": "blackwhite"
+    },
+    {
+      "id": 8,
+      "title": "Grey",
+      "description": "A grey themed CV template",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/free/free8.png",
+      "isPremium": false,
+      "category": "grey"
+    },
+    {
+      "id": 9,
+      "title": "Color Grey",
+      "description": "A colorful grey CV template",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/free/free9.png",
+      "isPremium": false,
+      "category": "colorgrey"
+    }
+  ]
+}
