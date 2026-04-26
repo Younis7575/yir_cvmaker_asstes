@@ -1,0 +1,122 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 1,
+      "title": "Executive CV",
+      "description": "An executive level CV template",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/premium/premium1.png",
+      "isPremium": true,
+      "price": "Premium",
+      "category": "executive"
+    },
+    {
+      "id": 2,
+      "title": "Corporate CV",
+      "description": "A corporate level CV template",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/premium/premium2.png",
+      "isPremium": true,
+      "price": "Premium",
+      "category": "corporate"
+    },
+    {
+      "id": 3,
+      "title": "Designer CV",
+      "description": "A creative designer CV template",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/premium/premium3.png",
+      "isPremium": true,
+      "price": "Premium",
+      "category": "designer"
+    },
+    {
+      "id": 4,
+      "title": "Premium Modern",
+      "description": "A modern premium CV template",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/premium/premium4.png",
+      "isPremium": true,
+      "price": "Premium",
+      "category": "modern"
+    },
+    {
+      "id": 5,
+      "title": "Beige & Black",
+      "description": "Beige and Black Simple Professional Resume",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/premium/Beige%20and%20Black%20Simple%20Professional%20Resume.png",
+      "isPremium": true,
+      "price": "Premium",
+      "category": "elegant"
+    },
+    {
+      "id": 6,
+      "title": "Black & White Pro",
+      "description": "Black and White Modern Professional Digital Marketing CV",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/premium/Black%20and%20White%20Modern%20Professional%20Digital%20Marketing%20CV.png",
+      "isPremium": true,
+      "price": "Premium",
+      "category": "marketing"
+    },
+    {
+      "id": 7,
+      "title": "BW Simple",
+      "description": "Black White Simple CV Resume",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/premium/Black%20White%20Simple%20CV%20Resume.png",
+      "isPremium": true,
+      "price": "Premium",
+      "category": "simple"
+    },
+    {
+      "id": 8,
+      "title": "Minimalist",
+      "description": "Minimalist Modern Professional CV Resume",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/premium/Minimalist%20Modern%20Professional%20CV%20Resume.png",
+      "isPremium": true,
+      "price": "Premium",
+      "category": "minimalist"
+    },
+    {
+      "id": 9,
+      "title": "Brown CV",
+      "description": "A brown themed premium CV template",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/premium/premium16.png",
+      "isPremium": true,
+      "price": "Premium",
+      "category": "classic"
+    },
+    {
+      "id": 10,
+      "title": "ATS CV",
+      "description": "An ATS optimized premium CV template",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/premium/premium7.png",
+      "isPremium": true,
+      "price": "Premium",
+      "category": "ats"
+    },
+    {
+      "id": 11,
+      "title": "Modern CV",
+      "description": "A modern premium CV template",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/premium/premium8.png",
+      "isPremium": true,
+      "price": "Premium",
+      "category": "modern"
+    },
+    {
+      "id": 12,
+      "title": "Premium BW",
+      "description": "A premium black and white CV template",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/premium/premium9.png",
+      "isPremium": true,
+      "price": "Premium",
+      "category": "blackwhite"
+    },
+    {
+      "id": 13,
+      "title": "GeoMetrics",
+      "description": "A geometric premium CV template",
+      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/premium/premium10.png",
+      "isPremium": true,
+      "price": "Premium",
+      "category": "geometric"
+    }
+  ]
+}
