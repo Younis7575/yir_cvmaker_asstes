@@ -72,16 +72,7 @@
       "isPremium": true,
       "price": "Premium",
       "category": "minimalist"
-    },
-    {
-      "id": 9,
-      "title": "Brown CV",
-      "description": "A brown themed premium CV template",
-      "image": "https://raw.githubusercontent.com/Younis7575/yir_cvmaker_asstes/2c6e8ed92d24f608ed2ecb8c6a9ebd7768869709/premium/premium16.png",
-      "isPremium": true,
-      "price": "Premium",
-      "category": "classic"
-    },
+    }, 
     {
       "id": 10,
       "title": "ATS CV",
